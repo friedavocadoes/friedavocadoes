@@ -15,9 +15,8 @@ Hello Hello :)<br><br>👯 I’m looking to collaborate on lazy brain-eating pro
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=friedavocadoes&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
+---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###
 
 <br clear="both">
 
