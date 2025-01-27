@@ -23,5 +23,5 @@ Hello Hello :)<br><br>👯 I’m looking to collaborate on lazy brain-eating pro
 ###
 
 [![](https://visitcount.itsvg.in/api?id=friedavocadoes&icon=2&color=3)](https://visitcount.itsvg.in)
-![Visitor Count](https://profile-counter.glitch.me/friedavocadoes/count.svg)
+
 
