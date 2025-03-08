@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Hello :)<br><br>👯 I’m looking to collaborate on lazy brain-eating projects!<br>💬 Ask me about the random eventlistener on a button that just sits there eating away your memory.<br>⚡ I can go up to 3 minutes without wanting to clean up my code again.<br><br>Building my routes and roots.
+Hello Hello :)<br><br>👯 I’m looking to collaborate on lazy brain-eating projects!<br>💬 Disabling ESLint rules instead of fixing my code.<br>⚡ I can go up to 3 minutes without wanting to clean up my code again.<br><br>Building my routes and roots.
 
 
 
